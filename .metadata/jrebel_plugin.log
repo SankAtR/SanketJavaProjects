@@ -1,0 +1,19 @@
+2014-05-02 16:14:56.368 [Worker-0] DEBUG AgentProvider - setInitializationData. isBetafalse; location jrebel/
+2014-05-02 16:14:56.371 [Worker-0] DEBUG AgentProvider - setInitializationData. isBetatrue; location jr6/jrebel/
+2014-05-02 16:14:56.396 [Worker-0] DEBUG HttpNotifications - Starting JRebel Notification server on port 0
+2014-05-02 16:14:56.695 [Worker-0] DEBUG HttpNotifications - Listening to JRebel notifications at http://127.0.0.1:58220/jrebel/notifications
+2014-05-02 16:14:56.735 [Worker-0] DEBUG o.z.exec.ProcessExecutor - Executing [C:\Program Files\Java\jdk1.6.0_38\jre\bin\java.exe, -Drebel.log=false, -Drebel.log.stdout=false, -Drebel.env.ide=Eclipse, -Drebel.properties=d:\Users\admin\.jrebel\jrebel.properties, -Drebel.license_server.legacy=false, -cp, D:\Softwares\eclipse\plugins\org.zeroturnaround.eclipse.embedder_5.5.2.RELEASE-201403191032\jrebel\jrebel.jar, com.zeroturnaround.javarebel.CLILicensingAPIImpl, getCurrentLicense, ]...
+2014-05-02 16:14:56.802 [Worker-0] DEBUG o.z.exec.ProcessExecutor - Started java.lang.ProcessImpl@74ee7e66
+2014-05-02 16:14:57.191 [JRebel License Expiration Notification Checker] DEBUG o.z.exec.ProcessExecutor - Executing [C:\Program Files\Java\jdk1.6.0_38\jre\bin\java.exe, -Drebel.log=false, -Drebel.log.stdout=false, -Drebel.env.ide=Eclipse, -Drebel.properties=d:\Users\admin\.jrebel\jrebel.properties, -Drebel.license_server.legacy=false, -cp, D:\Softwares\eclipse\plugins\org.zeroturnaround.eclipse.embedder_5.5.2.RELEASE-201403191032\jrebel\jrebel.jar, com.zeroturnaround.javarebel.CLILicensingAPIImpl, getCurrentLicense, ]...
+2014-05-02 16:14:57.249 [JRebel License Expiration Notification Checker] DEBUG o.z.exec.ProcessExecutor - Started java.lang.ProcessImpl@5ae9581b
+2014-05-02 16:15:00.773 [Worker-0] DEBUG o.z.exec.WaitForProcess - java.lang.ProcessImpl@74ee7e66 stopped with exit code 0
+2014-05-02 16:15:00.858 [Thread-19] DEBUG o.z.exec.ProcessExecutor - Executing [C:\Program Files\Java\jdk1.6.0_38\jre\bin\java.exe, -Drebel.log=false, -Drebel.log.stdout=false, -Drebel.env.ide=Eclipse, -Drebel.properties=d:\Users\admin\.jrebel\jrebel.properties, -Drebel.license_server.legacy=false, -cp, D:\Softwares\eclipse\plugins\org.zeroturnaround.eclipse.embedder_5.5.2.RELEASE-201403191032\jrebel\jrebel.jar, com.zeroturnaround.javarebel.CLILicensingAPIImpl, getCurrentLicense, ]...
+2014-05-02 16:15:00.868 [JRebel License Expiration Notification Checker] DEBUG o.z.exec.WaitForProcess - java.lang.ProcessImpl@5ae9581b stopped with exit code 0
+2014-05-02 16:15:01.012 [Thread-19] DEBUG o.z.exec.ProcessExecutor - Started java.lang.ProcessImpl@7657a1c7
+2014-05-02 16:15:04.608 [Thread-19] DEBUG o.z.exec.WaitForProcess - java.lang.ProcessImpl@7657a1c7 stopped with exit code 0
+2014-05-02 16:16:27.771 [Worker-2] DEBUG RebelArgsFixingLaunchListener - ILaunchConfiguration parameters for T
+2014-05-02 16:16:27.772 [Worker-2] DEBUG RebelArgsFixingLaunchListener - 
+entry: org.eclipse.debug.core.MAPPED_RESOURCE_PATHS=[/Test2/src/T.java]
+entry: org.eclipse.debug.core.MAPPED_RESOURCE_TYPES=[1]
+entry: org.eclipse.jdt.launching.MAIN_TYPE=T
+entry: org.eclipse.jdt.launching.PROJECT_ATTR=Test2
